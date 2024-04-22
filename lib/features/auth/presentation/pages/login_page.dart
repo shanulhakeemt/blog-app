@@ -59,7 +59,7 @@ class _LoginPageState extends State<LoginPage> {
               const SizedBox(height: 20),
               GestureDetector(
                 onTap: () {
-                  Navigate.pushRemove(
+                  Navigate.push(
                     context: context,
                     screen: const SignUpPage(),
                   );

@@ -1,5 +1,5 @@
 class SupabaseSecrets {
-  static const supaBaseUrl = "https://imexnxahesyolilctjlj.supabase.co";
+  static const supaBaseUrl = "https://smkqaeovyhyshezzewvo.supabase.co";
   static const supaBaseAnonKey =
-      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImltZXhueGFoZXN5b2xpbGN0amxqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTEyMjEyMDQsImV4cCI6MjAyNjc5NzIwNH0.9KgwMd4Bj5WtS_ZI4tc8Yzz3lwyNxHPuuytN1f5sLMc";
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNta3FhZW92eWh5c2hlenpld3ZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM4MDczMDcsImV4cCI6MjAyOTM4MzMwN30.TcRrLPh4PPlUpqe79oCF5nwHXZlAGa-KJgHWH8c_99g";
 }
